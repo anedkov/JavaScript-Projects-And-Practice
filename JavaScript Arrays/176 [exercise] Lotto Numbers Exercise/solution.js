@@ -1,0 +1,1 @@
+const lottoNumbersArray = [8,4,25,10,19,6];
